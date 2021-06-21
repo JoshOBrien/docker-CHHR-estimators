@@ -1,7 +1,12 @@
-# A few of Dockerfiles and scripts on which this is based:
+## A few of Dockerfiles and scripts on which this is based:
 ##  - https://github.com/rocker-org/rocker-versioned2/blob/master/dockerfiles/Dockerfile_geospatial_4.1.0
 ##  - https://github.com/rocker-org/rocker-versioned2/blob/master/scripts/install_geospatial.sh
 ##  - https://github.com/rocker-org/rocker-versioned2/blob/master/dockerfiles/Dockerfile_rstudio_4.1.0
+##
+## To pull this image from the GitHub Container Repo, just do:
+##
+##   sudo docker pull ghcr.io/joshobrien/docker-chhr-estimators
+
 
 FROM rocker/geospatial:4.1.0
 
