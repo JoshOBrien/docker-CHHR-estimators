@@ -8,7 +8,7 @@
 ##   sudo docker pull ghcr.io/joshobrien/docker-chhr-estimators
 
 
-FROM rocker/geospatial:4.1.0
+FROM rocker/geospatial:latest
 
 RUN apt-get update \
     && sudo apt-get install emacs -y \
