@@ -3,7 +3,7 @@
 ##  - https://github.com/rocker-org/rocker-versioned2/blob/master/scripts/install_geospatial.sh
 ##  - https://github.com/rocker-org/rocker-versioned2/blob/master/dockerfiles/Dockerfile_rstudio_4.1.0
 ##
-## To pull this image from the GitHub Container Repo, just do:
+## To pull this image from the GitHub Container Repo, just do this:
 ##
 ##   sudo docker pull ghcr.io/joshobrien/docker-chhr-estimators
 
